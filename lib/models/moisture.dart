@@ -1,7 +1,7 @@
 class Moisture {
   final int id;
-  final double moisture; // eg. LAL
-  final String dateTime; // eg. Los Angeles
+  final double moisture;
+  final String dateTime;
 
   Moisture({
     required this.id,

@@ -1,7 +1,7 @@
 class Voltage {
   final int id;
-  final dynamic voltage; // eg. LAL
-  final String dateTime; // eg. Los Angeles
+  final dynamic voltage;
+  final String dateTime;
 
   Voltage({
     required this.id,

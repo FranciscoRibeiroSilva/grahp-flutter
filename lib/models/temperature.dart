@@ -1,7 +1,7 @@
 class Temperature {
   final int id;
-  final double temperature; // eg. LAL
-  final String dateTime; // eg. Los Angeles
+  final double temperature;
+  final String dateTime;
 
   Temperature({
     required this.id,
